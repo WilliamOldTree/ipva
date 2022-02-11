@@ -1,4 +1,7 @@
 # Validação IPVA
+
+### Executar
+
 Criar um CRUD para cadastro de carros e de IPVA;
 • Na tabela carros têm-se:
 • Id
@@ -19,3 +22,6 @@ Criar um CRUD para cadastro de carros e de IPVA;
 • Documento contendo:
 • Imagens do funcionamento do sistema
 • Queries de criação e manipulação das tabelas
+
+### Executado
+
